@@ -1,6 +1,6 @@
 # SNA lectures notebooks
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GiulioRossetti/UAB_Complex_Network_Analysis/notebooks/HEAD)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GiulioRossetti/UAB_Complex_Network_Analysis/notebooks/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GiulioRossetti/UAB_Complex_Network_Analysis/HEAD?labpath=notebooks)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GiulioRossetti/UAB_Complex_Network_Analysis)
 
 Supporting materials for the Complex Network Analysis course @UAB.
 
