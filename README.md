@@ -51,5 +51,5 @@ This crash course is an introduction to the analysis of complex networks, made p
    - Albert-Laszlo Barabasi. [Network Science](http://barabasi.com/book/network-science), 
    - Michele Coscia. [The Atlas for Aspiring Network Scientists](https://www.networkatlas.eu/)
 - **Python Notebooks:** Available on this repository under the folder "notebooks"
-- **Visual Network Analsysi tools:** [Gephi](https://gephi.org/)
+- **Visual Network Analysis tools:** [Gephi](https://gephi.org/)
 - **Network Datasets:** [Network repository](https://networkrepository.com/), [Netzschleuder](https://networks.skewed.de/)
