@@ -1,6 +1,6 @@
-# "Complex Network Analysis" P.h.d. Course
+# Complex Network Analysis (Crash Course)
 
-- **Where:** Universitat Autònoma de Barcelona 
+- **Where:** Universitat Autònoma de Barcelona, P.h.D in Economia Applicada 
 - **When:** 19 May - 8 June, 2022
 - **Who('s teaching):** Dr. Giulio Rossetti
 
